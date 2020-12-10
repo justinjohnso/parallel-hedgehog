@@ -332,7 +332,7 @@ sections:
       fringilla, fringilla.
     actions:
       - type: action
-        label: Button
+        label: Rad button
         url: /pricing
         style: primary
     actions_position: bottom
